@@ -1,0 +1,12 @@
+C:\Users\borov\Desktop\SimpleSignal\bin\Debug\SimpleSignal.exe
+C:\Users\borov\Desktop\SimpleSignal\bin\Debug\SimpleSignal.pdb
+C:\Users\borov\Desktop\SimpleSignal\obj\Debug\SimpleSignal.csprojAssemblyReference.cache
+C:\Users\borov\Desktop\SimpleSignal\obj\Debug\SimpleSignal.MainForm.resources
+C:\Users\borov\Desktop\SimpleSignal\obj\Debug\SimpleSignal.Properties.Resources.resources
+C:\Users\borov\Desktop\SimpleSignal\obj\Debug\SimpleSignal.csproj.GenerateResource.cache
+C:\Users\borov\Desktop\SimpleSignal\obj\Debug\SimpleSignal.csproj.CoreCompileInputs.cache
+C:\Users\borov\Desktop\SimpleSignal\obj\Debug\SimpleSignal.csproj.CopyComplete
+C:\Users\borov\Desktop\SimpleSignal\obj\Debug\SimpleSignal.exe
+C:\Users\borov\Desktop\SimpleSignal\obj\Debug\SimpleSignal.pdb
+C:\Users\borov\Desktop\SimpleSignal\obj\Debug\SimpleSignal.EulerMethod.resources
+C:\Users\borov\Desktop\SimpleSignal\obj\Debug\SimpleSignal.RungeKuttMethod.resources
